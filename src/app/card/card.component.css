@@ -1,0 +1,19 @@
+h5{
+    font-family: "Flexo-Demi",arial,sans-serif;
+    color: #313131;
+    font-size: 120%;
+    margin-bottom: 5px;
+}
+
+.frame{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.beastImage{
+    height: 350px;
+    max-width: 390px;
+}

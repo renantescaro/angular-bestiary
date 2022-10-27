@@ -1,0 +1,7 @@
+<p>Listagem</p>
+
+<div class="listing">
+    <ng-template ngFor let-beast [ngForOf]="beasts" let-i="index">
+        <app-card [beast]="beast"></app-card>
+    </ng-template>
+</div>
